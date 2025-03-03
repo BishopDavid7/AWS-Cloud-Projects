@@ -36,3 +36,18 @@ This project demonstrates a **highly available and secure AWS architecture** for
 ---
 
 ## **📂 Project Structure**
+AWS-Image-Label-Generator/
+│── backend/
+│   ├── lambda_function.py
+│   ├── requirements.txt
+│── docs/
+│   ├── README.md
+│   ├── architecture.md
+│   ├── setup_instructions.md
+│── frontend/
+│   ├── index.html
+│   ├── script.js
+│   ├── styles.css
+│── architecture/
+│   ├── architecture-diagram.png
+│── setup_instructions.md
