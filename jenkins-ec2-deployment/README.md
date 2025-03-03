@@ -32,3 +32,7 @@ Before you begin, ensure you have the following:
 3. Basic Linux knowledge
 4. SSH Key Pair
 5. IAM Role with EC2 Permissions
+
+## 🌐 Architecture Diagram
+
+![Jenkins Architecture](https://github.com/BishopDavid7/AWS-Cloud-Projects/raw/main/jenkins-ec2-deployment/docs/architecture.png)
