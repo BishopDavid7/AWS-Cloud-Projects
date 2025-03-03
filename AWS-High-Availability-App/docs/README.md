@@ -29,4 +29,10 @@ This project demonstrates a **highly available and secure AWS architecture** for
 
 ---
 
+## **📐 Architecture Diagram**  
+![Highly Available App Architecture](https://github.com/BishopDavid7/AWS-Cloud-Projects/raw/main/AWS-High-Availability-App/docs/HighlyAvailableAppDeploy.png)
+
+
+---
+
 ## **📂 Project Structure**
