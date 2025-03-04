@@ -22,6 +22,19 @@ This solution is particularly useful for **inventory management**, as it helps i
 - **Infrastructure:** AWS IAM, AWS Free Tier  
 
 ---
+## **📜 Project Structure**
+AWS-Image-Label-Generator/
+│── backend/
+│   ├── lambda_function.py   # AWS Lambda function script
+│   ├── rekognition_helper.py # Rekognition helper functions
+│── frontend/
+│   ├── index.html  # Main web UI
+│   ├── script.js   # JavaScript logic
+│   ├── styles.css  # Styling
+│── docs/
+│   ├── ImageLabelGeneratorProject.png  # Architecture Diagram
+│── README.md  # Documentation
+
 
 ## 🌐 Architecture Diagram
 
